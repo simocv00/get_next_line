@@ -17,7 +17,7 @@ A function that reads a line from a file descriptor, implemented in C. Part of t
 - [Features](#features)
 - [Bonus](#bonus)
 - [Testing](#testing)
-- [License](#license)
+
 
 ---
 
@@ -145,11 +145,7 @@ Recommended testers:
 - [gnl-war-machine]([https://github.com/some-tester/gnl-war-machine](https://github.com/Tripouille/gnlTester))
 - [42TESTERS-GNL]([https://github.com/Mazoise/42TESTERS-GNL](https://github.com/kodpe/gnl-station-tester))
 
----
 
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
