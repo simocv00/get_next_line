@@ -31,7 +31,7 @@ static char	*read_until_newline(int fd, char *buffer)
 
 	if (BUFFER_SIZE <= 0)
 		return (NULL);
-	here = malloc((BUFFER_SIZE + 1) * sizeof(char));
+	here = malloc(((size_t)BUFFER_SIZE + 1) * sizeof(char));
 	if (!here)
 		return (NULL);
 	while (!ft_strchr(buffer, '\n'))
