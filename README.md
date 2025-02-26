@@ -1,6 +1,5 @@
-Here's a professional `README.md` for a `get_next_line` project (42 School style):
 
-```markdown
+```markdow
 # get_next_line 📖
 
 A function that reads a line from a file descriptor, implemented in C. Part of the 42 School curriculum.
